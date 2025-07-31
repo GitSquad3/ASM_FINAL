@@ -13,6 +13,12 @@
         android:theme="@style/Theme.ASM_FINAL"
         tools:targetApi="31">
         <activity
+            android:name=".DeleteStudent"
+            android:exported="false" />
+        <activity
+            android:name=".AddStudent"
+            android:exported="false" />
+        <activity
             android:name=".RegisterActivity"
             android:exported="false" />
         <activity
@@ -24,6 +30,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".AdminDashboardActivity" />
+        <activity android:name=".AddStudentActivity" />
+        <activity android:name=".UpdateStudentActivity" />
+        <activity android:name=".DeleteStudentActivity" />
+        <activity android:name=".ViewStudentsActivity" />
     </application>
 
 </manifest>

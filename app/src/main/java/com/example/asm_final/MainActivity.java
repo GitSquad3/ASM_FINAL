@@ -10,7 +10,6 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
-
     EditText etUsername, etPassword;
     Button btnLogin, btnGoToRegister;
 
@@ -36,7 +35,16 @@ public class MainActivity extends AppCompatActivity {
                     DatabaseHelper db = new DatabaseHelper(MainActivity.this);
                     if (db.loginUser(username, password)) {
                         Toast.makeText(MainActivity.this, "Login successful!", Toast.LENGTH_SHORT).show();
-                        // Navigate to main screen if needed
+                        if (db.isAdmin(username)) {
+                            Intent intent = new Intent(MainActivity.this, AdminDashboardActivity.class);
+                            intent.putExtra("USERNAME", username);
+                            startActivity(intent);
+                            finish();
+                        } else {
+                            // Handle regular user login
+                            // You might want to navigate to a different activity for regular users
+                            Toast.makeText(MainActivity.this, "Regular user login", Toast.LENGTH_SHORT).show();
+                        }
                     } else {
                         Toast.makeText(MainActivity.this, "Login failed, please check again and re-enter your username or password.", Toast.LENGTH_SHORT).show();
                     }
@@ -47,7 +55,6 @@ public class MainActivity extends AppCompatActivity {
         btnGoToRegister.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // Navigate to RegisterActivity
                 Intent intent = new Intent(MainActivity.this, RegisterActivity.class);
                 startActivity(intent);
             }
