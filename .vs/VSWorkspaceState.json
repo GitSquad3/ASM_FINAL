@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SIMSWebApp",
+    "\\SIMSWebApp\\Database",
+    "\\SIMSWebApp\\DatabaseContext",
+    "\\SIMSWebApp\\Database\\Scripts",
+    "\\SIMSWebApp\\Services",
+    "\\SIMSWebApp\\Views",
+    "\\SIMSWebApp\\Views\\Course",
+    "\\SIMSWebApp\\Views\\Dashboard",
+    "\\SIMSWebApp\\Views\\Home"
+  ],
+  "SelectedNode": "\\SIMSWebApp\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

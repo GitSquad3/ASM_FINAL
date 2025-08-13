@@ -1,0 +1,184 @@
+﻿@model SIMSWebApp.Models.CourseViewModel
+
+@{
+    ViewData["Title"] = "Add New Course";
+    Layout = "_LayoutMain";
+}
+
+<div class="container-fluid px-4">
+    <h1 class="mt-4">Add New Course</h1>
+    <ol class="breadcrumb mb-4">
+        <li class="breadcrumb-item"><a href="/Dashboard">Dashboard</a></li>
+        <li class="breadcrumb-item"><a href="/Course">Courses</a></li>
+        <li class="breadcrumb-item active">Add New</li>
+    </ol>
+
+    <div class="card mb-4">
+        <div class="card-header">
+            <i class="fas fa-book-plus me-1"></i>
+            Course Information
+        </div>
+        <div class="card-body">
+            <form asp-action="Create" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label asp-for="CourseName" class="form-label"></label>
+                            <input asp-for="CourseName" class="form-control" placeholder="Enter course name" />
+                            <span asp-validation-for="CourseName" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label asp-for="CourseCode" class="form-label"></label>
+                            <input asp-for="CourseCode" class="form-control" placeholder="Enter course code" />
+                            <span asp-validation-for="CourseCode" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label asp-for="Credits" class="form-label"></label>
+                            <input asp-for="Credits" class="form-control" type="number" min="1" max="10" />
+                            <span asp-validation-for="Credits" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label asp-for="Duration" class="form-label"></label>
+                            <input asp-for="Duration" class="form-control" placeholder="e.g., 16 weeks, 1 semester" />
+                            <span asp-validation-for="Duration" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label asp-for="Department" class="form-label"></label>
+                            <select asp-for="Department" class="form-select">
+                                <option value="">-- Select Department --</option>
+                                <option value="Computer Science">Computer Science</option>
+                                <option value="Mathematics">Mathematics</option>
+                                <option value="Physics">Physics</option>
+                                <option value="Chemistry">Chemistry</option>
+                                <option value="Biology">Biology</option>
+                                <option value="Engineering">Engineering</option>
+                                <option value="Business">Business</option>
+                                <option value="Economics">Economics</option>
+                                <option value="Literature">Literature</option>
+                                <option value="History">History</option>
+                            </select>
+                            <span asp-validation-for="Department" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label asp-for="Instructor" class="form-label"></label>
+                            <input asp-for="Instructor" class="form-control" placeholder="Enter instructor name" />
+                            <span asp-validation-for="Instructor" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label asp-for="Semester" class="form-label"></label>
+                            <select asp-for="Semester" class="form-select">
+                                <option value="">-- Select Semester --</option>
+                                <option value="Spring">Spring</option>
+                                <option value="Summer">Summer</option>
+                                <option value="Fall">Fall</option>
+                                <option value="Winter">Winter</option>
+                            </select>
+                            <span asp-validation-for="Semester" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label asp-for="AcademicYear" class="form-label"></label>
+                            <input asp-for="AcademicYear" class="form-control" placeholder="e.g., 2024-2025" />
+                            <span asp-validation-for="AcademicYear" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label asp-for="MaxStudents" class="form-label"></label>
+                            <input asp-for="MaxStudents" class="form-control" type="number" min="0" max="100" placeholder="Optional" />
+                            <span asp-validation-for="MaxStudents" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label asp-for="Fee" class="form-label"></label>
+                            <input asp-for="Fee" class="form-control" type="number" min="0" step="0.01" placeholder="Optional" />
+                            <span asp-validation-for="Fee" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-12">
+                        <div class="mb-3">
+                            <label asp-for="Description" class="form-label"></label>
+                            <textarea asp-for="Description" class="form-control" rows="4" placeholder="Enter course description"></textarea>
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="d-flex justify-content-between">
+                    <a asp-action="Index" class="btn btn-secondary">
+                        <i class="fas fa-arrow-left me-1"></i>
+                        Back
+                    </a>
+                    <button type="submit" class="btn btn-primary">
+                        <i class="fas fa-save me-1"></i>
+                        Save Course
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            // Auto-generate course code when entering course name
+            $('#CourseName').on('input', function() {
+                var courseName = $(this).val();
+                if (courseName.length > 0) {
+                    var courseCode = generateCourseCode(courseName);
+                    $('#CourseCode').val(courseCode);
+                }
+            });
+
+            function generateCourseCode(courseName) {
+                var words = courseName.trim().split(' ');
+                var code = '';
+                
+                if (words.length >= 2) {
+                    code = words[0].charAt(0).toUpperCase() + 
+                           words[1].charAt(0).toUpperCase() + 
+                           new Date().getFullYear().toString().substr(-2) + 
+                           Math.floor(Math.random() * 100).toString().padStart(2, '0');
+                } else if (words.length === 1) {
+                    code = words[0].charAt(0).toUpperCase() + 
+                           new Date().getFullYear().toString().substr(-2) + 
+                           Math.floor(Math.random() * 100).toString().padStart(2, '0');
+                }
+                
+                return code;
+            }
+        });
+    </script>
+}
