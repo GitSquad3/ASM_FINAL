@@ -1,0 +1,65 @@
+@model IEnumerable<SIMSWebApp.DatabaseContext.Entities.Student>
+@{
+	ViewData["Title"] = "Class Students";
+	Layout = "_LayoutMain";
+}
+<div class="container-fluid px-4">
+	<h2 class="mt-4">Students in @ViewBag.ClassRoom.ClassName</h2>
+	<ol class="breadcrumb mb-4">
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="Index">Dashboard</a></li>
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="MyClassStudents">My Classes</a></li>
+		<li class="breadcrumb-item active">Class Students</li>
+	</ol>
+	<div class="card mb-4">
+		<div class="card-header bg-success text-white">
+			<i class="fas fa-users me-1"></i>
+			Students in Class: @ViewBag.ClassRoom.ClassCode
+		</div>
+		<div class="card-body">
+			@if (!Model.Any())
+			{
+				<p class="text-muted">No students in this class.</p>
+			}
+			else
+			{
+				<table class="table table-bordered table-striped" id="studentsTable">
+					<thead>
+						<tr>
+							<th>Student Code</th>
+							<th>Full Name</th>
+							<th>Email</th>
+							<th>Major</th>
+							<th style="width:140px;">Actions</th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var s in Model)
+						{
+							<tr>
+								<td>@s.StudentCode</td>
+								<td>@s.User.FullName</td>
+								<td>@s.User.Email</td>
+								<td>@s.Major</td>
+								<td>
+									<a asp-controller="Teacher" asp-action="ClassStudentGrades" asp-route-classId="@ViewBag.ClassRoom.ClassRoomID" asp-route-studentId="@s.StudentID" class="btn btn-sm btn-outline-primary">
+										<i class="fas fa-graduation-cap me-1"></i> Grades
+									</a>
+								</td>
+							</tr>
+						}
+					</tbody>
+				</table>
+			}
+		</div>
+	</div>
+</div>
+
+@section Scripts {
+	<script>
+		$(document).ready(function () {
+			$('#studentsTable').DataTable({
+				responsive: true
+			});
+		});
+	</script>
+}

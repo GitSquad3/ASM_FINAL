@@ -1,0 +1,895 @@
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\appsettings.json
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.staticwebassets.runtime.json
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.staticwebassets.endpoints.json
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.exe
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.deps.json
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.runtimeconfig.json
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.pdb
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.AssemblyInfoInputs.cache
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.AssemblyInfo.cs
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.csproj.CoreCompileInputs.cache
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.RazorAssemblyInfo.cache
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.RazorAssemblyInfo.cs
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\scopedcss\bundle\SIMSWebApp.styles.css
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\scopedcss\projectbundle\SIMSWebApp.bundle.scp.css
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\refint\SIMSWebApp.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.pdb
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.genruntimeconfig.cache
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\ref\SIMSWebApp.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Azure.Core.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Azure.Identity.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Humanizer.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.ClientModel.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.CodeDom.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.Text.Json.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.csproj.AssemblyReference.cache
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.sourcelink.json
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.csproj.Up2Date
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\APDP\SE07102\SIMSWebApp\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.dll
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\refint\SIMSWebApp.dll
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.pdb
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\appsettings.json
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.staticwebassets.runtime.json
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.staticwebassets.endpoints.json
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.exe
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.deps.json
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.runtimeconfig.json
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.pdb
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Azure.Core.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Azure.Identity.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Humanizer.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.ClientModel.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.CodeDom.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.Text.Json.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\se07103.asp.net\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.csproj.AssemblyReference.cache
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.AssemblyInfoInputs.cache
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.AssemblyInfo.cs
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.csproj.CoreCompileInputs.cache
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.RazorAssemblyInfo.cache
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.RazorAssemblyInfo.cs
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.sourcelink.json
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\scopedcss\bundle\SIMSWebApp.styles.css
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\scopedcss\projectbundle\SIMSWebApp.bundle.scp.css
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.csproj.Up2Date
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.genruntimeconfig.cache
+C:\se07103.asp.net\SIMSWebApp\obj\Debug\net8.0\ref\SIMSWebApp.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\appsettings.json
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.staticwebassets.endpoints.json
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.staticwebassets.runtime.json
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.exe
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.deps.json
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.runtimeconfig.json
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.pdb
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Azure.Core.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Azure.Identity.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Humanizer.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.ClientModel.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.CodeDom.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.Text.Json.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\data\asm\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.csproj.AssemblyReference.cache
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.AssemblyInfoInputs.cache
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.AssemblyInfo.cs
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.csproj.CoreCompileInputs.cache
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.RazorAssemblyInfo.cache
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.RazorAssemblyInfo.cs
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.sourcelink.json
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\scopedcss\bundle\SIMSWebApp.styles.css
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\scopedcss\projectbundle\SIMSWebApp.bundle.scp.css
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.csproj.Up2Date
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.dll
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\refint\SIMSWebApp.dll
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.pdb
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.genruntimeconfig.cache
+C:\data\asm\SIMSWebApp\obj\Debug\net8.0\ref\SIMSWebApp.dll
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.csproj.AssemblyReference.cache
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.AssemblyInfoInputs.cache
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.AssemblyInfo.cs
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.csproj.CoreCompileInputs.cache
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.RazorAssemblyInfo.cache
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.RazorAssemblyInfo.cs
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.sourcelink.json
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.dll
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\refint\SIMSWebApp.dll
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.pdb
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\appsettings.Development.json
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\appsettings.json
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.staticwebassets.runtime.json
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.staticwebassets.endpoints.json
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.exe
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.deps.json
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.runtimeconfig.json
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.pdb
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Azure.Core.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Azure.Identity.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Humanizer.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.ClientModel.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.CodeDom.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Memory.Data.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Text.Json.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\C#\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\scopedcss\bundle\SIMSWebApp.styles.css
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\scopedcss\projectbundle\SIMSWebApp.bundle.scp.css
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.csproj.Up2Date
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.genruntimeconfig.cache
+D:\C#\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\ref\SIMSWebApp.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\appsettings.Development.json
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\appsettings.json
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.staticwebassets.runtime.json
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.staticwebassets.endpoints.json
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.exe
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.deps.json
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.runtimeconfig.json
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\SIMSWebApp.pdb
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Azure.Core.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Azure.Identity.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Humanizer.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.ClientModel.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.CodeDom.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Memory.Data.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Text.Json.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.csproj.AssemblyReference.cache
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.AssemblyInfoInputs.cache
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.AssemblyInfo.cs
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.csproj.CoreCompileInputs.cache
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.RazorAssemblyInfo.cache
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.RazorAssemblyInfo.cs
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.sourcelink.json
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\scopedcss\bundle\SIMSWebApp.styles.css
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\scopedcss\projectbundle\SIMSWebApp.bundle.scp.css
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.csproj.Up2Date
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\refint\SIMSWebApp.dll
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.pdb
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\SIMSWebApp.genruntimeconfig.cache
+D:\thay` trieu`\Asm demo\ASM_FINAL\SIMSWebApp\obj\Debug\net8.0\ref\SIMSWebApp.dll

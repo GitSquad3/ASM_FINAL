@@ -1,0 +1,60 @@
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<nav class="navbar navbar-expand navbar-dark bg-dark shadow-sm">
+    @if (User.IsInRole("Admin"))
+    {
+        <a class="navbar-brand ps-3" asp-controller="Admin" asp-action="Index">SIMS</a>
+    }
+    else if (User.IsInRole("Teacher"))
+    {
+        <a class="navbar-brand ps-3" asp-controller="Teacher" asp-action="Index">SIMS</a>
+    }
+    else if (User.IsInRole("Student"))
+    {
+        <a class="navbar-brand ps-3" asp-controller="Student" asp-action="Index">SIMS</a>
+    }
+    else
+    {
+        <a class="navbar-brand ps-3" href="#">SIMS</a>
+    }
+    <button class="btn btn-link btn-sm me-3" id="sidebarToggle" type="button"><i class="fas fa-bars"></i></button>
+
+    <form class="d-none d-md-inline-block ms-auto me-3">
+        <div class="input-group input-group-sm">
+            <input class="form-control" type="text" placeholder="Search..." aria-label="Search" />
+            <button class="btn btn-primary" type="button"><i class="fas fa-search"></i></button>
+        </div>
+    </form>
+
+    <ul class="navbar-nav ms-auto me-3">
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" id="userDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <i class="fas fa-user-circle"></i>
+            </a>
+            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="userDropdown">
+                <li><h6 class="dropdown-header">@User.Identity?.Name</h6></li>
+                @if (User.IsInRole("Admin"))
+                {
+                    <li><a class="dropdown-item" asp-controller="Admin" asp-action="Users">Profile</a></li>
+                }
+                else if (User.IsInRole("Teacher"))
+                {
+                    <li><a class="dropdown-item" asp-controller="Teacher" asp-action="Profile">Profile</a></li>
+                }
+                else if (User.IsInRole("Student"))
+                {
+                    <li><a class="dropdown-item" asp-controller="Student" asp-action="Profile">Profile</a></li>
+                }
+                <li><hr class="dropdown-divider" /></li>
+                <li>
+                    <form asp-controller="Auth" asp-action="Logout" method="post" class="m-0">
+                        <button class="dropdown-item" type="submit">Logout</button>
+                    </form>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</nav>

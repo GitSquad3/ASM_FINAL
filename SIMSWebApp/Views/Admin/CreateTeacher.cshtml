@@ -1,0 +1,98 @@
+@model SIMSWebApp.Models.CreateTeacherViewModel
+
+@{
+    ViewData["Title"] = "Create Teacher";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid">
+    <h2 class="mt-4">Create New Teacher</h2>
+    <div class="card mb-4">
+        <div class="card-header">
+            <i class="fas fa-user-plus mr-1"></i>
+            Teacher Information
+        </div>
+        <div class="card-body">
+            <form asp-action="CreateTeacher" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                
+                <div class="row">
+                    <div class="col-md-6">
+                        <h4>Account Information</h4>
+                        <hr />
+                        <div class="form-group">
+                            <label asp-for="Username" class="control-label"></label>
+                            <input asp-for="Username" class="form-control" />
+                            <span asp-validation-for="Username" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Password" class="control-label"></label>
+                            <input asp-for="Password" class="form-control" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="FullName" class="control-label"></label>
+                            <input asp-for="FullName" class="form-control" />
+                            <span asp-validation-for="FullName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Email" class="control-label"></label>
+                            <input asp-for="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="PhoneNumber" class="control-label"></label>
+                            <input asp-for="PhoneNumber" class="form-control" />
+                            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-6">
+                        <h4>Teacher Information</h4>
+                        <hr />
+                        <div class="form-group">
+                            <label asp-for="TeacherCode" class="control-label"></label>
+                            <input asp-for="TeacherCode" class="form-control" />
+                            <span asp-validation-for="TeacherCode" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Department" class="control-label"></label>
+                            <input asp-for="Department" class="form-control" />
+                            <span asp-validation-for="Department" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Specialization" class="control-label"></label>
+                            <input asp-for="Specialization" class="form-control" />
+                            <span asp-validation-for="Specialization" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="AcademicDegree" class="control-label"></label>
+                            <select asp-for="AcademicDegree" class="form-control">
+                                <option value="">-- Select Degree --</option>
+                                <option value="Bachelor">Bachelor</option>
+                                <option value="Master">Master</option>
+                                <option value="PhD">PhD</option>
+                                <option value="Professor">Professor</option>
+                            </select>
+                            <span asp-validation-for="AcademicDegree" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="HireDate" class="control-label"></label>
+                            <input asp-for="HireDate" class="form-control" type="date" />
+                            <span asp-validation-for="HireDate" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                    <a asp-action="Teachers" class="btn btn-secondary">Back to List</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

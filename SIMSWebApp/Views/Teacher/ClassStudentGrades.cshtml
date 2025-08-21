@@ -1,0 +1,108 @@
+@model IEnumerable<SIMSWebApp.DatabaseContext.Entities.Grade>
+@{
+	ViewData["Title"] = "Student Grades";
+	Layout = "_LayoutMain";
+	var student = ViewBag.Student;
+	var classRoom = ViewBag.ClassRoom;
+}
+<div class="container-fluid px-4">
+	<h2 class="mt-4">Grades for @student.User.FullName</h2>
+	<ol class="breadcrumb mb-4">
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="Index">Dashboard</a></li>
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="MyClassStudents">My Classes</a></li>
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="ClassStudents" asp-route-classId="@ViewBag.ClassId">Class Students</a></li>
+		<li class="breadcrumb-item active">Student Grades</li>
+	</ol>
+	
+	<div class="alert alert-info">
+		<h5>Student Information</h5>
+		<p><strong>Student Code:</strong> @student.StudentCode | <strong>Class:</strong> @student.Class | <strong>Major:</strong> @student.Major</p>
+	</div>
+	
+	<div class="mb-3">
+		<a asp-action="AddClassGrade" asp-route-classId="@ViewBag.ClassId" asp-route-studentId="@ViewBag.StudentId" class="btn btn-primary">
+			<i class="fas fa-plus-circle me-1"></i> Add Grade
+		</a>
+	</div>
+	
+	<div class="card mb-4">
+		<div class="card-header bg-success text-white">
+			<i class="fas fa-chart-bar me-1"></i>
+			Grades for @student.User.FullName in Class @classRoom.ClassCode
+		</div>
+		<div class="card-body">
+			@if (!Model.Any())
+			{
+				<p class="text-muted">No grades found for this student.</p>
+			}
+			else
+			{
+				<table class="table table-bordered table-striped" id="gradesTable">
+					<thead>
+						<tr>
+							<th>Course</th>
+							<th>Type</th>
+							<th>Score</th>
+							<th>Grade</th>
+							<th>Date</th>
+							<th>Comments</th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var g in Model)
+						{
+							<tr>
+								<td>@g.Course.CourseCode - @g.Course.CourseName</td>
+								<td>@g.GradeType</td>
+								<td>@g.Score</td>
+								<td>
+									@{
+										string letterGrade = "F";
+										string badgeClass = "bg-danger";
+										
+										if (g.Score >= 90)
+										{
+											letterGrade = "D";
+											badgeClass = "bg-primary";
+										}
+										else if (g.Score >= 80)
+										{
+											letterGrade = "M";
+											badgeClass = "bg-success";
+										}
+										else if (g.Score >= 65)
+										{
+											letterGrade = "P";
+											badgeClass = "bg-warning";
+										}
+									}
+									<span class="badge @badgeClass">@letterGrade</span>
+								</td>
+								<td>@g.GradingDate.ToString("yyyy-MM-dd")</td>
+								<td>@g.Comments</td>
+							</tr>
+						}
+					</tbody>
+				</table>
+				
+				@if (Model.Any())
+				{
+					<div class="mt-4">
+						<h5>Average Score: <span class="badge bg-info">@Model.Average(g => g.Score).ToString("F1")</span></h5>
+					</div>
+				}
+			}
+		</div>
+	</div>
+</div>
+
+@section Scripts {
+	<script>
+		$(document).ready(function () {
+			$('#gradesTable').DataTable({
+				responsive: true,
+				order: [[4, 'desc']] // Sort by date column in descending order
+			});
+		});
+	</script>
+}

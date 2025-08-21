@@ -1,0 +1,53 @@
+@model SIMSWebApp.DatabaseContext.Entities.Student
+@{
+	ViewData["Title"] = "My Profile";
+	Layout = "_LayoutMain";
+}
+<div class="container-fluid px-4">
+	<h2 class="mt-4">My Profile</h2>
+	<ol class="breadcrumb mb-4">
+		<li class="breadcrumb-item"><a asp-controller="Student" asp-action="Index">Dashboard</a></li>
+		<li class="breadcrumb-item active">My Profile</li>
+	</ol>
+	
+	<div class="alert alert-info">
+		<i class="fas fa-info-circle me-2"></i>
+		This is your student profile information. If you need to update any information, please contact the administration office.
+	</div>
+	<div class="card mb-4">
+		<div class="card-header bg-primary text-white">
+			<i class="fas fa-user-graduate me-1"></i>
+			Student Information (Read Only)
+		</div>
+		<div class="card-body">
+			<table class="table table-bordered">
+				<tbody>
+					<tr>
+						<td><strong>Student Code</strong></td>
+						<td>@Model.StudentCode</td>
+					</tr>
+					<tr>
+						<td><strong>Full Name</strong></td>
+						<td>@Model.User.FullName</td>
+					</tr>
+					<tr>
+						<td><strong>Email</strong></td>
+						<td>@Model.User.Email</td>
+					</tr>
+					<tr>
+						<td><strong>Class</strong></td>
+						<td>@Model.Class</td>
+					</tr>
+					<tr>
+						<td><strong>Major</strong></td>
+						<td>@Model.Major</td>
+					</tr>
+					<tr>
+						<td><strong>Enrollment Date</strong></td>
+						<td>@Model.EnrollmentDate.ToString("yyyy-MM-dd")</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>

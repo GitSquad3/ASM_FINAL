@@ -1,0 +1,73 @@
+@model IEnumerable<SIMSWebApp.DatabaseContext.Entities.ClassRoom>
+@{
+	ViewData["Title"] = "Classes";
+	Layout = "_LayoutMain";
+}
+<div class="container-fluid px-4">
+	<h1 class="mt-4">Classes</h1>
+	@if (TempData["ErrorMessage"] != null)
+	{
+		<div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+	}
+	@if (TempData["SuccessMessage"] != null)
+	{
+		<div class="alert alert-success">@TempData["SuccessMessage"]</div>
+	}
+	<div class="mb-3">
+		<a asp-action="CreateClass" class="btn btn-primary">Add Class</a>
+	</div>
+	<div class="card mb-4">
+		<div class="card-body">
+			<table class="table table-bordered table-striped">
+				<thead>
+					<tr>
+						<th>Code</th>
+						<th>Name</th>
+						<th>Department</th>
+						<th>Academic Year</th>
+						<th>Main Teacher</th>
+						<th>Courses</th>
+						<th style="width:180px;">Actions</th>
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var c in Model)
+					{
+						<tr>
+							<td>@c.ClassCode</td>
+							<td>@c.ClassName</td>
+							<td>@c.Department</td>
+							<td>@c.AcademicYear</td>
+							<td>
+								@if (c.Teacher != null)
+								{
+									@(c.Teacher.TeacherCode + " - " + c.Teacher.User.FullName)
+								}
+								else
+								{
+									<span class="text-muted">Not assigned</span>
+								}
+							</td>
+							<td>
+								@if (c.ClassCourses.Any())
+								{
+									@string.Join(", ", c.ClassCourses.Select(cc => cc.Course.CourseCode))
+								}
+								else
+								{
+									<span class="text-muted">No courses</span>
+								}
+							</td>
+							<td>
+								<a asp-action="EditClass" asp-route-id="@c.ClassRoomID" class="btn btn-sm btn-outline-warning me-2">Edit</a>
+								<form asp-action="DeleteClass" asp-route-id="@c.ClassRoomID" method="post" class="d-inline" onsubmit="return confirm('Delete this class?');">
+									<button type="submit" class="btn btn-sm btn-outline-danger">Delete</button>
+								</form>
+							</td>
+						</tr>
+					}
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>

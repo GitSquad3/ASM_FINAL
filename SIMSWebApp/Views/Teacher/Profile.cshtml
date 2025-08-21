@@ -1,0 +1,44 @@
+@model SIMSWebApp.DatabaseContext.Entities.Teacher
+@{
+	ViewData["Title"] = "My Profile";
+	Layout = "_LayoutMain";
+}
+<div class="container-fluid px-4">
+	<h2 class="mt-4">My Profile</h2>
+	<div class="card mb-4">
+		<div class="card-body">
+			<table class="table table-bordered">
+				<tbody>
+					<tr>
+						<td><strong>Teacher Code</strong></td>
+						<td>@Model.TeacherCode</td>
+					</tr>
+					<tr>
+						<td><strong>Full Name</strong></td>
+						<td>@Model.User.FullName</td>
+					</tr>
+					<tr>
+						<td><strong>Email</strong></td>
+						<td>@Model.User.Email</td>
+					</tr>
+					<tr>
+						<td><strong>Department</strong></td>
+						<td>@Model.Department</td>
+					</tr>
+					<tr>
+						<td><strong>Specialization</strong></td>
+						<td>@Model.Specialization</td>
+					</tr>
+					<tr>
+						<td><strong>Academic Degree</strong></td>
+						<td>@Model.AcademicDegree</td>
+					</tr>
+					<tr>
+						<td><strong>Hire Date</strong></td>
+						<td>@Model.HireDate.ToString("yyyy-MM-dd")</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>

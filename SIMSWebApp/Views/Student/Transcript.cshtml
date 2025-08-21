@@ -1,0 +1,86 @@
+@model IEnumerable<SIMSWebApp.DatabaseContext.Entities.Enrollment>
+@{
+	ViewData["Title"] = "Transcript";
+	Layout = "_LayoutMain";
+}
+<div class="container-fluid px-4">
+	<h2 class="mt-4">Academic Transcript</h2>
+	<ol class="breadcrumb mb-4">
+		<li class="breadcrumb-item"><a asp-controller="Student" asp-action="Index">Dashboard</a></li>
+		<li class="breadcrumb-item active">Transcript</li>
+	</ol>
+	<div class="card mb-4">
+		<div class="card-header bg-dark text-white">
+			<i class="fas fa-graduation-cap me-1"></i>
+			Complete Academic Record
+		</div>
+		<div class="card-body">
+			@if (!Model.Any())
+			{
+				<p class="text-muted">No transcript data found.</p>
+			}
+			else
+			{
+				<table class="table table-bordered table-striped" id="transcriptTable">
+					<thead>
+						<tr>
+							<th>Course</th>
+							<th>Semester</th>
+							<th>Year</th>
+							<th>Status</th>
+							<th>Average</th>
+							<th>Grade</th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var e in Model)
+						{
+							var avg = e.Grades != null && e.Grades.Any() ? e.Grades.Average(g => g.Score) : 0;
+							<tr>
+								<td>@e.Course.CourseCode - @e.Course.CourseName</td>
+								<td>@e.Course.Semester</td>
+								<td>@e.Course.AcademicYear</td>
+								<td>@e.Status</td>
+								<td>@avg.ToString("F1")</td>
+								<td>
+									@{
+										string letterGrade = "F";
+										string badgeClass = "bg-danger";
+										
+										if (avg >= 90)
+										{
+											letterGrade = "D";
+											badgeClass = "bg-primary";
+										}
+										else if (avg >= 80)
+										{
+											letterGrade = "M";
+											badgeClass = "bg-success";
+										}
+										else if (avg >= 65)
+										{
+											letterGrade = "P";
+											badgeClass = "bg-warning";
+										}
+									}
+									<span class="badge @badgeClass">@letterGrade</span>
+								</td>
+							</tr>
+						}
+					</tbody>
+				</table>
+			}
+		</div>
+	</div>
+</div>
+
+@section Scripts {
+	<script>
+		$(document).ready(function () {
+			$('#transcriptTable').DataTable({
+				responsive: true,
+				order: [[2, 'desc'], [1, 'desc']] // Sort by year then semester in descending order
+			});
+		});
+	</script>
+}

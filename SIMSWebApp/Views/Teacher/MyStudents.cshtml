@@ -1,0 +1,61 @@
+@model IEnumerable<SIMSWebApp.DatabaseContext.Entities.Student>
+@{
+	ViewData["Title"] = "My Students";
+	Layout = "_LayoutMain";
+}
+<div class="container-fluid px-4">
+	<h2 class="mt-4">Students in Course</h2>
+	<ol class="breadcrumb mb-4">
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="Index">Dashboard</a></li>
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="MyCourses">My Courses</a></li>
+		<li class="breadcrumb-item active">Students</li>
+	</ol>
+	<div class="card mb-4">
+		<div class="card-header bg-success text-white">
+			<i class="fas fa-graduation-cap me-1"></i>
+			Enrolled Students
+		</div>
+		<div class="card-body">
+			@if (!Model.Any())
+			{
+				<p class="text-muted">No students in this course.</p>
+			}
+			else
+			{
+				<table class="table table-bordered table-striped" id="studentsTable">
+					<thead>
+						<tr>
+							<th>Code</th>
+							<th>Full Name</th>
+							<th>Email</th>
+							<th style="width:180px;">Actions</th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var s in Model)
+						{
+							<tr>
+								<td>@s.StudentCode</td>
+								<td>@s.User.FullName</td>
+								<td>@s.User.Email</td>
+								<td>
+									<!-- Grades action removed -->
+								</td>
+							</tr>
+						}
+					</tbody>
+				</table>
+			}
+		</div>
+	</div>
+</div>
+
+@section Scripts {
+	<script>
+		$(document).ready(function () {
+			$('#studentsTable').DataTable({
+				responsive: true
+			});
+		});
+	</script>
+}

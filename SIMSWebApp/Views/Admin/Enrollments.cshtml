@@ -1,0 +1,90 @@
+@model IEnumerable<SIMSWebApp.DatabaseContext.Entities.Enrollment>
+@{
+	ViewData["Title"] = "Enrollments";
+	Layout = "_LayoutMain";
+}
+<div class="container-fluid px-4">
+	<h1 class="mt-4">Enrollments</h1>
+	@if (TempData["ErrorMessage"] != null)
+	{
+		<div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+	}
+	@if (TempData["SuccessMessage"] != null)
+	{
+		<div class="alert alert-success">@TempData["SuccessMessage"]</div>
+	}
+	<div class="mb-3">
+		<a asp-action="EnrollStudent" class="btn btn-primary me-2">Enroll Student</a>
+		<a asp-action="EnrollClass" class="btn btn-success">Enroll Class</a>
+	</div>
+	<div class="card mb-4">
+		<div class="card-body">
+			<table class="table table-bordered table-striped">
+				<thead>
+					<tr>
+						<th>Student Code</th>
+						<th>Student Name</th>
+						<th>Course Code</th>
+						<th>Course Name</th>
+						<th>Enrollment Date</th>
+						<th>Status</th>
+						<th>Notes</th>
+						<th style="width:220px;">Actions</th>
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var e in Model)
+					{
+						<tr>
+							<td>@e.Student.StudentCode</td>
+							<td>@e.Student.User.FullName</td>
+							<td>@e.Course.CourseCode</td>
+							<td>@e.Course.CourseName</td>
+							<td>@e.EnrollmentDate.ToString("yyyy-MM-dd")</td>
+							<td>@e.Status</td>
+							<td>@(string.IsNullOrEmpty(e.Notes) ? "-" : e.Notes)</td>
+							<td>
+								<button type="button" class="btn btn-sm btn-outline-info me-1" data-bs-toggle="modal" data-bs-target="#notesModal@(e.EnrollmentID)">Notes</button>
+								<form asp-action="UpdateEnrollmentStatus" asp-route-id="@e.EnrollmentID" method="post" class="d-inline me-1">
+									<select name="status" class="form-select form-select-sm d-inline-block" style="width: auto;">
+									<option value="Active" selected="@(e.Status == "Active")">Active</option>
+									<option value="Completed" selected="@(e.Status == "Completed")">Completed</option>
+									<option value="Dropped" selected="@(e.Status == "Dropped")">Dropped</option>
+								</select>
+									<button type="submit" class="btn btn-sm btn-outline-primary">Update</button>
+								</form>
+								<form asp-action="DeleteEnrollment" asp-route-id="@e.EnrollmentID" method="post" class="d-inline" onsubmit="return confirm('Delete this enrollment?');">
+									<button type="submit" class="btn btn-sm btn-outline-danger">Delete</button>
+								</form>
+								
+								<!-- Notes Modal -->
+								<div class="modal fade" id="notesModal@(e.EnrollmentID)" tabindex="-1" aria-labelledby="notesModalLabel@(e.EnrollmentID)" aria-hidden="true">
+									<div class="modal-dialog">
+										<div class="modal-content">
+											<div class="modal-header">
+												<h5 class="modal-title" id="notesModalLabel@(e.EnrollmentID)">Update Notes for @e.Student.User.FullName - @e.Course.CourseName</h5>
+												<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+											</div>
+											<form asp-action="UpdateEnrollmentNotes" asp-route-id="@e.EnrollmentID" method="post">
+												<div class="modal-body">
+													<div class="mb-3">
+														<label for="notes@(e.EnrollmentID)" class="form-label">Notes</label>
+														<textarea id="notes@(e.EnrollmentID)" name="notes" class="form-control" rows="3">@e.Notes</textarea>
+													</div>
+												</div>
+												<div class="modal-footer">
+													<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+													<button type="submit" class="btn btn-primary">Save changes</button>
+												</div>
+											</form>
+										</div>
+									</div>
+								</div>
+							</td>
+						</tr>
+					}
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>

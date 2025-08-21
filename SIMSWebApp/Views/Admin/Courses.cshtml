@@ -1,0 +1,61 @@
+@model IEnumerable<SIMSWebApp.DatabaseContext.Entities.Course>
+@{
+	ViewData["Title"] = "Courses";
+	Layout = "_LayoutMain";
+}
+
+<div class="container-fluid px-4">
+	<h1 class="mt-4">Courses</h1>
+	@if (TempData["ErrorMessage"] != null)
+	{
+		<div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+	}
+	@if (TempData["SuccessMessage"] != null)
+	{
+		<div class="alert alert-success">@TempData["SuccessMessage"]</div>
+	}
+	<div class="mb-3">
+		<a asp-action="CreateCourse" class="btn btn-primary me-2">Create Course</a>
+		<a asp-action="EnrollClass" class="btn btn-success">Enroll Class</a>
+	</div>
+	<div class="card mb-4">
+		<div class="card-body">
+			<table class="table table-bordered table-striped">
+				<thead>
+					<tr>
+						<th>Code</th>
+						<th>Name</th>
+						<th>Credits</th>
+						<th>Department</th>
+						<th>Semester</th>
+						<th>Academic Year</th>
+						<th>Max Students</th>
+						<th>Fee</th>
+						<th style="width:180px;">Actions</th>
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var c in Model)
+					{
+						<tr>
+							<td>@c.CourseCode</td>
+							<td>@c.CourseName</td>
+							<td>@c.Credits</td>
+							<td>@c.Department</td>
+							<td>@c.Semester</td>
+							<td>@c.AcademicYear</td>
+							<td>@c.MaxStudents</td>
+							<td>@c.Fee.ToString("N0")</td>
+							<td>
+								<a asp-action="EditCourse" asp-route-id="@c.CourseID" class="btn btn-sm btn-outline-warning me-2">Edit</a>
+								<form asp-action="DeleteCourse" asp-route-id="@c.CourseID" method="post" class="d-inline" onsubmit="return confirm('Delete this course?');">
+									<button type="submit" class="btn btn-sm btn-outline-danger">Delete</button>
+								</form>
+							</td>
+						</tr>
+					}
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>

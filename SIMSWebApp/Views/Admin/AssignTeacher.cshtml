@@ -1,0 +1,75 @@
+@{
+    ViewData["Title"] = "Assign Teacher to Course";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var courses = ViewBag.Courses as List<SIMSWebApp.DatabaseContext.Entities.Course>;
+    var teachers = ViewBag.Teachers as List<SIMSWebApp.DatabaseContext.Entities.Teacher>;
+}
+
+<div class="container-fluid">
+    <h2 class="mt-4">Assign Teacher to Course</h2>
+    <div class="card mb-4">
+        <div class="card-header">
+            <i class="fas fa-chalkboard-teacher mr-1"></i>
+            Course Assignment
+        </div>
+        <div class="card-body">
+            @if (TempData["Error"] != null)
+            {
+                <div class="alert alert-danger">
+                    @TempData["Error"]
+                </div>
+            }
+            
+            <form asp-action="AssignTeacher" method="post">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="teacherId" class="control-label">Teacher</label>
+                            <select id="teacherId" name="teacherId" class="form-control" required>
+                                <option value="">-- Select Teacher --</option>
+                                @foreach (var teacher in teachers)
+                                {
+                                    <option value="@teacher.TeacherID">@teacher.TeacherCode - @teacher.User.FullName (@teacher.Department)</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="courseId" class="control-label">Course</label>
+                            <select id="courseId" name="courseId" class="form-control" required>
+                                <option value="">-- Select Course --</option>
+                                @foreach (var course in courses)
+                                {
+                                    <option value="@course.CourseID">@course.CourseCode - @course.CourseName (@course.Department)</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="notes" class="control-label">Notes</label>
+                    <textarea id="notes" name="notes" class="form-control" rows="3"></textarea>
+                </div>
+                
+                <div class="form-group">
+                    <input type="submit" value="Assign" class="btn btn-primary" />
+                    <a asp-action="CourseAssignments" class="btn btn-secondary">Back to Assignments</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#teacherId, #courseId').select2({
+                theme: 'bootstrap4',
+                placeholder: 'Select an option'
+            });
+        });
+    </script>
+}

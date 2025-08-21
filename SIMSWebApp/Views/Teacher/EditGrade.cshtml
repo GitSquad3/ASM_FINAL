@@ -1,0 +1,68 @@
+@model SIMSWebApp.DatabaseContext.Entities.Grade
+@{
+	ViewData["Title"] = "Edit Grade";
+	Layout = "_LayoutMain";
+}
+<div class="container-fluid px-4">
+	<h2 class="mt-4">Edit Grade</h2>
+	<ol class="breadcrumb mb-4">
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="Index">Dashboard</a></li>
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="MyCourses">My Courses</a></li>
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="MyStudents" asp-route-courseId="@Model.CourseID">Students</a></li>
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="Grades" asp-route-courseId="@Model.CourseID" asp-route-studentId="@Model.StudentID">Grades</a></li>
+		<li class="breadcrumb-item active">Edit Grade</li>
+	</ol>
+	<div class="card mb-4">
+		<div class="card-header bg-warning text-dark">
+			<i class="fas fa-edit me-1"></i>
+			Edit Grade for @Model.Student.User.FullName
+		</div>
+		<div class="card-body">
+			<form asp-action="EditGrade" method="post">
+				<input type="hidden" asp-for="GradeID" />
+				<input type="hidden" asp-for="CourseID" />
+				<input type="hidden" asp-for="StudentID" />
+				<input type="hidden" asp-for="TeacherID" />
+				
+				<div class="row mb-3">
+					<div class="col-md-6">
+						<div class="form-group">
+							<label class="form-label">Grade Type</label>
+							<select asp-for="GradeType" class="form-select">
+								@foreach (var type in ViewBag.GradeTypes)
+								{
+									<option value="@type">@type</option>
+								}
+							</select>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="form-group">
+							<label class="form-label">Score</label>
+							<input asp-for="Score" class="form-control" type="number" min="0" max="100" step="0.1" required />
+						</div>
+					</div>
+				</div>
+				
+				<div class="row mb-3">
+					<div class="col-md-6">
+						<div class="form-group">
+							<label class="form-label">Grading Date</label>
+							<input asp-for="GradingDate" class="form-control" type="date" required />
+						</div>
+					</div>
+				</div>
+				
+				<div class="form-group mb-3">
+					<label class="form-label">Comments</label>
+					<textarea asp-for="Comments" class="form-control" rows="3"></textarea>
+				</div>
+				
+				<div class="form-group">
+					<button type="submit" class="btn btn-primary">Save Changes</button>
+					<a asp-action="Grades" asp-route-courseId="@Model.CourseID" asp-route-studentId="@Model.StudentID" class="btn btn-secondary">Cancel</a>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>

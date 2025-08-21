@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\models\\attendanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\models\\attendanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\models\\editteacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\models\\editteacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\views\\admin\\createclass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\views\\admin\\createclass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\views\\admin\\enrollments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\views\\admin\\enrollments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\database\\scripts\\addteacheridtoclassrooms.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\database\\scripts\\addteacheridtoclassrooms.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\database\\scripts\\updatedatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\database\\scripts\\updatedatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\views\\shared\\partials\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\views\\shared\\partials\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\views\\shared\\partials\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\views\\shared\\partials\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\databasecontext\\simsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\databasecontext\\simsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\models\\editstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\models\\editstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\views\\student\\transcript.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\views\\student\\transcript.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|d:\\thay\u0060 trieu\u0060\\asm demo\\asm_final\\simswebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B161E6-8259-4D78-A53C-FEBD44468A8D}|SIMSWebApp\\SIMSWebApp.csproj|solutionrelative:simswebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\SourceServer\\0513f01ac55889f65f47314dde9f4f1f4ad7d63d772fcf7e59300abac377a978\\SIMSWebApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\ASM_FINAL\\SIMSWebApp\\Database\\Scripts\\CreateStudentsTable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\ASM_FINAL\\SIMSWebApp\\Database\\Scripts\\CreateCoursesTable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Controllers\\TeacherController.cs",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "SIMSWebApp\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAQwNAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:54:41.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttendanceViewModel.cs",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Models\\AttendanceViewModel.cs",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Models\\AttendanceViewModel.cs",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Models\\AttendanceViewModel.cs",
+              "RelativeToolTip": "SIMSWebApp\\Models\\AttendanceViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:45:21.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditTeacherViewModel.cs",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Models\\EditTeacherViewModel.cs",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Models\\EditTeacherViewModel.cs",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Models\\EditTeacherViewModel.cs",
+              "RelativeToolTip": "SIMSWebApp\\Models\\EditTeacherViewModel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:28:17.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SIMSWebApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAJ4DAAAAAAAAAAAQwLoDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:15:21.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enrollments.cshtml",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Views\\Admin\\Enrollments.cshtml",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Views\\Admin\\Enrollments.cshtml",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Views\\Admin\\Enrollments.cshtml",
+              "RelativeToolTip": "SIMSWebApp\\Views\\Admin\\Enrollments.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T16:29:04.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "SIMSWebApp\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T16:23:20.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "SIMSWebApp\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T16:23:17.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateClass.cshtml",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Views\\Admin\\CreateClass.cshtml",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Views\\Admin\\CreateClass.cshtml",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Views\\Admin\\CreateClass.cshtml",
+              "RelativeToolTip": "SIMSWebApp\\Views\\Admin\\CreateClass.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAewCYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T15:58:17.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateDatabase.sql",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Database\\Scripts\\UpdateDatabase.sql",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Database\\Scripts\\UpdateDatabase.sql",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Database\\Scripts\\UpdateDatabase.sql",
+              "RelativeToolTip": "SIMSWebApp\\Database\\Scripts\\UpdateDatabase.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-20T15:47:54.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+              "RelativeToolTip": "SIMSWebApp\\Views\\Shared\\Partials\\_Sidebar.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:39:19.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Views\\Shared\\Partials\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Views\\Shared\\Partials\\_Navbar.cshtml",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Views\\Shared\\Partials\\_Navbar.cshtml",
+              "RelativeToolTip": "SIMSWebApp\\Views\\Shared\\Partials\\_Navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:39:11.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "SIMSWebApp\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:19:24.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "SIMSWebApp\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAAKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T07:19:11.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SIMSWebApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T15:57:58.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddTeacherIDToClassRooms.sql",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Database\\Scripts\\AddTeacherIDToClassRooms.sql",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Database\\Scripts\\AddTeacherIDToClassRooms.sql",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Database\\Scripts\\AddTeacherIDToClassRooms.sql",
+              "RelativeToolTip": "SIMSWebApp\\Database\\Scripts\\AddTeacherIDToClassRooms.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-20T17:08:28.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SIMSWebApp\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwCoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T06:36:51.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\SourceServer\\0513f01ac55889f65f47314dde9f4f1f4ad7d63d772fcf7e59300abac377a978\\SIMSWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\SourceServer\\0513f01ac55889f65f47314dde9f4f1f4ad7d63d772fcf7e59300abac377a978\\SIMSWebApp\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:53:09.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SIMSWebApp\\appsettings.json",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\appsettings.json",
+              "RelativeToolTip": "SIMSWebApp\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T05:52:35.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateStudentsTable.sql",
+              "DocumentMoniker": "D:\\C#\\ASM_FINAL\\SIMSWebApp\\Database\\Scripts\\CreateStudentsTable.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\C#\\ASM_FINAL\\SIMSWebApp\\Database\\Scripts\\CreateStudentsTable.sql",
+              "ToolTip": "D:\\C#\\ASM_FINAL\\SIMSWebApp\\Database\\Scripts\\CreateStudentsTable.sql",
+              "RelativeToolTip": "..\\..\\..\\C#\\ASM_FINAL\\SIMSWebApp\\Database\\Scripts\\CreateStudentsTable.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-19T05:35:09.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateCoursesTable.sql",
+              "DocumentMoniker": "D:\\C#\\ASM_FINAL\\SIMSWebApp\\Database\\Scripts\\CreateCoursesTable.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\C#\\ASM_FINAL\\SIMSWebApp\\Database\\Scripts\\CreateCoursesTable.sql",
+              "ToolTip": "D:\\C#\\ASM_FINAL\\SIMSWebApp\\Database\\Scripts\\CreateCoursesTable.sql",
+              "RelativeToolTip": "..\\..\\..\\C#\\ASM_FINAL\\SIMSWebApp\\Database\\Scripts\\CreateCoursesTable.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-19T05:34:59.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "SIMSWebApp\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:07:33.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Transcript.cshtml",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Views\\Student\\Transcript.cshtml",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Views\\Student\\Transcript.cshtml",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Views\\Student\\Transcript.cshtml",
+              "RelativeToolTip": "SIMSWebApp\\Views\\Student\\Transcript.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T14:19:11.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditStudentViewModel.cs",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Models\\EditStudentViewModel.cs",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Models\\EditStudentViewModel.cs",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Models\\EditStudentViewModel.cs",
+              "RelativeToolTip": "SIMSWebApp\\Models\\EditStudentViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T14:19:49.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SIMSDbContext.cs",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\DatabaseContext\\SIMSDbContext.cs",
+              "RelativeDocumentMoniker": "SIMSWebApp\\DatabaseContext\\SIMSDbContext.cs",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\DatabaseContext\\SIMSDbContext.cs",
+              "RelativeToolTip": "SIMSWebApp\\DatabaseContext\\SIMSDbContext.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T14:20:12.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SIMSWebApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:07:32.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "SIMSWebApp\\Program.cs",
+              "ToolTip": "D:\\thay\u0060 trieu\u0060\\Asm demo\\ASM_FINAL\\SIMSWebApp\\Program.cs",
+              "RelativeToolTip": "SIMSWebApp\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:06:41.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

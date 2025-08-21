@@ -1,0 +1,94 @@
+@model IEnumerable<SIMSWebApp.DatabaseContext.Entities.Grade>
+@{
+	ViewData["Title"] = "Grades";
+	Layout = "_LayoutMain";
+}
+<div class="container-fluid px-4">
+	<h2 class="mt-4">Grades</h2>
+	<ol class="breadcrumb mb-4">
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="Index">Dashboard</a></li>
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="MyCourses">My Courses</a></li>
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="MyStudents" asp-route-courseId="@ViewBag.CourseId">Students</a></li>
+		<li class="breadcrumb-item active">Grades</li>
+	</ol>
+	<div class="mb-3">
+		<a asp-action="AddGrade" asp-route-courseId="@ViewBag.CourseId" asp-route-studentId="@ViewBag.StudentId" class="btn btn-primary">
+			<i class="fas fa-plus-circle me-1"></i> Add Grade
+		</a>
+	</div>
+	<div class="card mb-4">
+		<div class="card-header bg-warning text-dark">
+			<i class="fas fa-chart-bar me-1"></i>
+			Student Grades
+		</div>
+		<div class="card-body">
+			@if (!Model.Any())
+			{
+				<p class="text-muted">No grades found.</p>
+			}
+			else
+			{
+				<table class="table table-bordered table-striped" id="gradesTable">
+					<thead>
+						<tr>
+							<th>Type</th>
+							<th>Score</th>
+							<th>Grade</th>
+							<th>Date</th>
+							<th>Comments</th>
+							<th style="width:140px;">Actions</th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var g in Model)
+						{
+							<tr>
+								<td>@g.GradeType</td>
+								<td>@g.Score</td>
+								<td>
+									@{
+										string letterGrade = "F";
+										string badgeClass = "bg-danger";
+										
+										if (g.Score >= 90)
+										{
+											letterGrade = "D";
+											badgeClass = "bg-primary";
+										}
+										else if (g.Score >= 80)
+										{
+											letterGrade = "M";
+											badgeClass = "bg-success";
+										}
+										else if (g.Score >= 65)
+										{
+											letterGrade = "P";
+											badgeClass = "bg-warning";
+										}
+									}
+									<span class="badge @badgeClass">@letterGrade</span>
+								</td>
+								<td>@g.GradingDate.ToString("yyyy-MM-dd")</td>
+								<td>@g.Comments</td>
+								<td>
+									<a asp-action="EditGrade" asp-route-gradeId="@g.GradeID" class="btn btn-sm btn-outline-warning">Edit</a>
+								</td>
+							</tr>
+						}
+					</tbody>
+				</table>
+			}
+		</div>
+	</div>
+</div>
+
+@section Scripts {
+	<script>
+		$(document).ready(function () {
+			$('#gradesTable').DataTable({
+				responsive: true,
+				order: [[4, 'desc']] // Sort by date column (index 4) in descending order
+			});
+		});
+	</script>
+}

@@ -1,0 +1,85 @@
+@model IEnumerable<SIMSWebApp.DatabaseContext.Entities.Grade>
+@{
+	ViewData["Title"] = "My Grades";
+	Layout = "_LayoutMain";
+}
+<div class="container-fluid px-4">
+	<h2 class="mt-4">My Grades</h2>
+	<ol class="breadcrumb mb-4">
+		<li class="breadcrumb-item"><a asp-controller="Student" asp-action="Index">Dashboard</a></li>
+		<li class="breadcrumb-item active">My Grades</li>
+	</ol>
+	<div class="card mb-4">
+		<div class="card-header bg-success text-white">
+			<i class="fas fa-chart-line me-1"></i>
+			Grades Overview
+		</div>
+		<div class="card-body">
+			@if (!Model.Any())
+			{
+				<p class="text-muted">No grades available.</p>
+			}
+			else
+			{
+				<table class="table table-bordered table-striped" id="gradesTable">
+					<thead>
+						<tr>
+							<th>Course</th>
+							<th>Type</th>
+							<th>Score</th>
+							<th>Grade</th>
+							<th>Date</th>
+							<th>Teacher</th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var g in Model)
+						{
+							<tr>
+								<td>@g.Course.CourseCode - @g.Course.CourseName</td>
+								<td>@g.GradeType</td>
+								<td>@g.Score</td>
+								<td>
+									@{
+										string letterGrade = "F";
+										string badgeClass = "bg-danger";
+										
+										if (g.Score >= 90)
+										{
+											letterGrade = "D";
+											badgeClass = "bg-primary";
+										}
+										else if (g.Score >= 80)
+										{
+											letterGrade = "M";
+											badgeClass = "bg-success";
+										}
+										else if (g.Score >= 65)
+										{
+											letterGrade = "P";
+											badgeClass = "bg-warning";
+										}
+									}
+									<span class="badge @badgeClass">@letterGrade</span>
+								</td>
+								<td>@g.GradingDate.ToString("yyyy-MM-dd")</td>
+								<td>@g.Teacher.User.FullName</td>
+							</tr>
+						}
+					</tbody>
+				</table>
+			}
+		</div>
+	</div>
+</div>
+
+@section Scripts {
+	<script>
+		$(document).ready(function () {
+			$('#gradesTable').DataTable({
+				responsive: true,
+				order: [[4, 'desc']] // Sort by date column in descending order
+			});
+		});
+	</script>
+}

@@ -1,0 +1,103 @@
+@model IEnumerable<SIMSWebApp.DatabaseContext.Entities.Grade>
+@{
+	ViewData["Title"] = "Course Grades";
+	Layout = "_LayoutMain";
+	var course = Model.FirstOrDefault()?.Course;
+}
+<div class="container-fluid px-4">
+	<h2 class="mt-4">Course Grades</h2>
+	<ol class="breadcrumb mb-4">
+		<li class="breadcrumb-item"><a asp-controller="Student" asp-action="Index">Dashboard</a></li>
+		<li class="breadcrumb-item"><a asp-controller="Student" asp-action="MyCourses">My Courses</a></li>
+		<li class="breadcrumb-item active">Course Grades</li>
+	</ol>
+	
+	@if (course != null)
+	{
+		<div class="alert alert-info">
+			<h5>@course.CourseCode - @course.CourseName</h5>
+			<p>Semester: @course.Semester | Academic Year: @course.AcademicYear</p>
+		</div>
+	}
+	
+	<div class="card mb-4">
+		<div class="card-header bg-warning text-dark">
+			<i class="fas fa-chart-line me-1"></i>
+			Grades for this Course
+		</div>
+		<div class="card-body">
+			@if (!Model.Any())
+			{
+				<p class="text-muted">No grades available for this course.</p>
+			}
+			else
+			{
+				<table class="table table-bordered table-striped" id="courseGradesTable">
+					<thead>
+						<tr>
+							<th>Type</th>
+							<th>Score</th>
+							<th>Grade</th>
+							<th>Date</th>
+							<th>Teacher</th>
+							<th>Comments</th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var g in Model)
+						{
+							<tr>
+								<td>@g.GradeType</td>
+								<td>@g.Score</td>
+								<td>
+									@{
+										string letterGrade = "F";
+										string badgeClass = "bg-danger";
+										
+										if (g.Score >= 90)
+										{
+											letterGrade = "D";
+											badgeClass = "bg-primary";
+										}
+										else if (g.Score >= 80)
+										{
+											letterGrade = "M";
+											badgeClass = "bg-success";
+										}
+										else if (g.Score >= 65)
+										{
+											letterGrade = "P";
+											badgeClass = "bg-warning";
+										}
+									}
+									<span class="badge @badgeClass">@letterGrade</span>
+								</td>
+								<td>@g.GradingDate.ToString("yyyy-MM-dd")</td>
+								<td>@g.Teacher.User.FullName</td>
+								<td>@g.Comments</td>
+							</tr>
+						}
+					</tbody>
+				</table>
+				
+				@if (Model.Any())
+				{
+					<div class="mt-4">
+						<h5>Course Average: <span class="badge bg-info">@Model.Average(g => g.Score).ToString("F1")</span></h5>
+					</div>
+				}
+			}
+		</div>
+	</div>
+</div>
+
+@section Scripts {
+	<script>
+		$(document).ready(function () {
+			$('#courseGradesTable').DataTable({
+				responsive: true,
+				order: [[3, 'desc']] // Sort by date column in descending order
+			});
+		});
+	</script>
+}

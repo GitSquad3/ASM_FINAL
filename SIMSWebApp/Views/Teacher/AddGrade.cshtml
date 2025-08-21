@@ -1,0 +1,65 @@
+@{
+	ViewData["Title"] = "Add Grade";
+	Layout = "_LayoutMain";
+}
+<div class="container-fluid px-4">
+	<h2 class="mt-4">Add Grade</h2>
+	<ol class="breadcrumb mb-4">
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="Index">Dashboard</a></li>
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="MyCourses">My Courses</a></li>
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="MyStudents" asp-route-courseId="@ViewBag.CourseId">Students</a></li>
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="Grades" asp-route-courseId="@ViewBag.CourseId" asp-route-studentId="@ViewBag.StudentId">Grades</a></li>
+		<li class="breadcrumb-item active">Add Grade</li>
+	</ol>
+	<div class="card mb-4">
+		<div class="card-header bg-primary text-white">
+			<i class="fas fa-plus-circle me-1"></i>
+			Add New Grade
+		</div>
+		<div class="card-body">
+			<form asp-action="AddGrade" method="post">
+				<input type="hidden" name="CourseId" value="@ViewBag.CourseId" />
+				<input type="hidden" name="StudentId" value="@ViewBag.StudentId" />
+				
+				<div class="row mb-3">
+					<div class="col-md-6">
+						<div class="form-group">
+							<label class="form-label">Grade Type</label>
+							<select name="GradeType" class="form-select" required>
+								@foreach (var type in ViewBag.GradeTypes)
+								{
+									<option value="@type">@type</option>
+								}
+							</select>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="form-group">
+							<label class="form-label">Score</label>
+							<input name="Score" class="form-control" type="number" min="0" max="100" step="0.1" required />
+						</div>
+					</div>
+				</div>
+				
+				<div class="row mb-3">
+					<div class="col-md-6">
+						<div class="form-group">
+							<label class="form-label">Grading Date</label>
+							<input name="GradingDate" class="form-control" type="date" value="@DateTime.Now.ToString("yyyy-MM-dd")" required />
+						</div>
+					</div>
+				</div>
+				
+				<div class="form-group mb-3">
+					<label class="form-label">Comments</label>
+					<textarea name="Comments" class="form-control" rows="3"></textarea>
+				</div>
+				
+				<div class="form-group">
+					<button type="submit" class="btn btn-primary">Add Grade</button>
+					<a asp-action="Grades" asp-route-courseId="@ViewBag.CourseId" asp-route-studentId="@ViewBag.StudentId" class="btn btn-secondary">Cancel</a>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,94 @@
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div id="layoutSidenav_nav">
+    <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
+        <div class="sb-sidenav-menu">
+            <div class="nav">
+                <div class="sb-sidenav-menu-heading">Core</div>
+                @if (User.IsInRole("Admin"))
+                {
+                    <a class="nav-link" asp-controller="Admin" asp-action="Index">
+                        <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
+                        Dashboard
+                    </a>
+                }
+                @if (User.IsInRole("Teacher"))
+                {
+                    <a class="nav-link" asp-controller="Teacher" asp-action="Index">
+                        <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
+                        Dashboard
+                    </a>
+                }
+                @if (User.IsInRole("Student"))
+                {
+                    <a class="nav-link" asp-controller="Student" asp-action="Index">
+                        <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
+                        Dashboard
+                    </a>
+                }
+
+                @if (User.IsInRole("Admin"))
+                {
+                    <div class="sb-sidenav-menu-heading">Management</div>
+                    <a class="nav-link" asp-controller="Admin" asp-action="Students">
+                        <div class="sb-nav-link-icon"><i class="fas fa-user-graduate"></i></div>
+                        Students
+                    </a>
+                    <a class="nav-link" asp-controller="Admin" asp-action="Teachers">
+                        <div class="sb-nav-link-icon"><i class="fas fa-chalkboard-teacher"></i></div>
+                        Teachers
+                    </a>
+                    <a class="nav-link" asp-controller="Admin" asp-action="Classes">
+                        <div class="sb-nav-link-icon"><i class="fas fa-layer-group"></i></div>
+                        Classes
+                    </a>
+                    <a class="nav-link" asp-controller="Admin" asp-action="Courses">
+                        <div class="sb-nav-link-icon"><i class="fas fa-book"></i></div>
+                        Courses
+                    </a>
+                    <a class="nav-link" asp-controller="Admin" asp-action="Enrollments">
+                        <div class="sb-nav-link-icon"><i class="fas fa-user-plus"></i></div>
+                        Enrollments
+                    </a>
+                }
+                
+                @if (User.IsInRole("Teacher"))
+                {
+                    <div class="sb-sidenav-menu-heading">Teaching</div>
+                    <a class="nav-link" asp-controller="Teacher" asp-action="MyCourses">
+                        <div class="sb-nav-link-icon"><i class="fas fa-book"></i></div>
+                        My Courses
+                    </a>
+                    <a class="nav-link" asp-controller="Teacher" asp-action="MyClassStudents">
+                        <div class="sb-nav-link-icon"><i class="fas fa-user-graduate"></i></div>
+                        My Students
+                    </a>
+                }
+
+                @if (User.IsInRole("Admin"))
+                {
+                    <div class="sb-sidenav-menu-heading">Quick Create</div>
+                    <a class="nav-link" asp-controller="Admin" asp-action="CreateStudent">
+                        <div class="sb-nav-link-icon"><i class="fas fa-plus"></i></div>
+                        Add Student
+                    </a>
+                    <a class="nav-link" asp-controller="Admin" asp-action="CreateClass">
+                        <div class="sb-nav-link-icon"><i class="fas fa-plus-circle"></i></div>
+                        Add Class
+                    </a>
+                    <a class="nav-link" asp-controller="Admin" asp-action="CreateCourse">
+                        <div class="sb-nav-link-icon"><i class="fas fa-plus-square"></i></div>
+                        Add Course
+                    </a>
+                }
+            </div>
+        </div>
+        <div class="sb-sidenav-footer">
+            <div class="small">Logged in as:</div>
+            @User.Identity?.Name
+        </div>
+    </nav>
+</div>

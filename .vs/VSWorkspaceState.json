@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SIMSWebApp",
+    "\\SIMSWebApp\\Controllers",
+    "\\SIMSWebApp\\Database",
+    "\\SIMSWebApp\\DatabaseContext",
+    "\\SIMSWebApp\\Database\\Scripts",
+    "\\SIMSWebApp\\Views"
+  ],
+  "SelectedNode": "\\SIMSWebApp\\Controllers\\AuthController.cs",
+  "PreviewInSolutionExplorer": false
+}

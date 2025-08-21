@@ -1,0 +1,60 @@
+@model IEnumerable<SIMSWebApp.DatabaseContext.Entities.ClassRoom>
+@{
+	ViewData["Title"] = "My Classes";
+	Layout = "_LayoutMain";
+}
+<div class="container-fluid px-4">
+	<h2 class="mt-4">My Classes</h2>
+	<ol class="breadcrumb mb-4">
+		<li class="breadcrumb-item"><a asp-controller="Teacher" asp-action="Index">Dashboard</a></li>
+		<li class="breadcrumb-item active">My Classes</li>
+	</ol>
+	<div class="card mb-4">
+		<div class="card-header bg-success text-white">
+			<i class="fas fa-users me-1"></i>
+			Assigned Classes
+		</div>
+		<div class="card-body">
+			@if (!Model.Any())
+			{
+				<p class="text-muted">You have no assigned classes.</p>
+			}
+			else
+			{
+				<table class="table table-bordered table-striped" id="classesTable">
+					<thead>
+						<tr>
+							<th>Class Code</th>
+							<th>Class Name</th>
+							<th>Academic Year</th>
+							<th style="width:180px;">Actions</th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var c in Model)
+						{
+							<tr>
+								<td>@c.ClassCode</td>
+								<td>@c.ClassName</td>
+								<td>@c.AcademicYear</td>
+								<td>
+									<a asp-controller="Teacher" asp-action="ClassStudents" asp-route-classId="@c.ClassRoomID" class="btn btn-sm btn-outline-primary">View Students</a>
+								</td>
+							</tr>
+						}
+					</tbody>
+				</table>
+			}
+		</div>
+	</div>
+</div>
+
+@section Scripts {
+	<script>
+		$(document).ready(function () {
+			$('#classesTable').DataTable({
+				responsive: true
+			});
+		});
+	</script>
+}

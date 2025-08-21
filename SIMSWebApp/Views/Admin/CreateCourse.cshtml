@@ -1,0 +1,71 @@
+@model SIMSWebApp.DatabaseContext.Entities.Course
+@{
+	ViewData["Title"] = "Create Course";
+	Layout = "_LayoutMain";
+}
+<div class="container-fluid px-4">
+	<h2 class="mt-4">Create Course</h2>
+	<div class="card mb-4">
+		<div class="card-body">
+			<form asp-action="CreateCourse" method="post">
+				<div class="row g-3">
+					<div class="col-md-4">
+						<label asp-for="CourseCode" class="form-label"></label>
+						<input asp-for="CourseCode" class="form-control" />
+						<span asp-validation-for="CourseCode" class="text-danger"></span>
+					</div>
+					<div class="col-md-8">
+						<label asp-for="CourseName" class="form-label"></label>
+						<input asp-for="CourseName" class="form-control" />
+						<span asp-validation-for="CourseName" class="text-danger"></span>
+					</div>
+					<div class="col-md-2">
+						<label asp-for="Credits" class="form-label"></label>
+						<input asp-for="Credits" class="form-control" />
+						<span asp-validation-for="Credits" class="text-danger"></span>
+					</div>
+					<div class="col-md-4">
+						<label asp-for="Duration" class="form-label"></label>
+						<input asp-for="Duration" class="form-control" />
+						<span asp-validation-for="Duration" class="text-danger"></span>
+					</div>
+					<div class="col-md-6">
+						<label asp-for="Department" class="form-label"></label>
+						<input asp-for="Department" class="form-control" />
+						<span asp-validation-for="Department" class="text-danger"></span>
+					</div>
+					<div class="col-md-3">
+						<label asp-for="Semester" class="form-label"></label>
+						<input asp-for="Semester" class="form-control" />
+						<span asp-validation-for="Semester" class="text-danger"></span>
+					</div>
+					<div class="col-md-3">
+						<label asp-for="AcademicYear" class="form-label"></label>
+						<input asp-for="AcademicYear" class="form-control" />
+						<span asp-validation-for="AcademicYear" class="text-danger"></span>
+					</div>
+					<div class="col-md-3">
+						<label asp-for="MaxStudents" class="form-label"></label>
+						<input asp-for="MaxStudents" class="form-control" />
+						<span asp-validation-for="MaxStudents" class="text-danger"></span>
+					</div>
+					<div class="col-md-3">
+						<label asp-for="Fee" class="form-label"></label>
+						<input asp-for="Fee" class="form-control" />
+						<span asp-validation-for="Fee" class="text-danger"></span>
+					</div>
+					<div class="col-12">
+						<label asp-for="Description" class="form-label"></label>
+						<textarea asp-for="Description" class="form-control"></textarea>
+						<span asp-validation-for="Description" class="text-danger"></span>
+					</div>
+				</div>
+				<div class="mt-3">
+					<button type="submit" class="btn btn-primary">Create</button>
+					<a asp-action="Courses" class="btn btn-secondary">Back</a>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+@section Scripts { <partial name="_ValidationScriptsPartial" /> }

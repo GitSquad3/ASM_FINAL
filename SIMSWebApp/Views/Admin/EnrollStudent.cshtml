@@ -1,0 +1,45 @@
+@model SIMSWebApp.Models.EnrollStudentViewModel
+@{
+	ViewData["Title"] = "Enroll Student";
+	Layout = "_LayoutMain";
+	var courses = ViewBag.Courses as IEnumerable<SIMSWebApp.DatabaseContext.Entities.Course>;
+	var students = ViewBag.Students as IEnumerable<SIMSWebApp.DatabaseContext.Entities.Student>;
+}
+<div class="container-fluid px-4">
+	<h2 class="mt-4">Enroll Student to Course</h2>
+	<div class="card mb-4">
+		<div class="card-body">
+			<form asp-action="EnrollStudent" method="post">
+				<div class="row g-3">
+					<div class="col-md-6">
+						<label asp-for="CourseID" class="form-label">Course</label>
+						<select asp-for="CourseID" class="form-select">
+							<option value="">-- Select Course --</option>
+							@foreach (var c in courses)
+							{
+								<option value="@c.CourseID">@c.CourseCode - @c.CourseName</option>
+							}
+						</select>
+						<span asp-validation-for="CourseID" class="text-danger"></span>
+					</div>
+					<div class="col-md-6">
+						<label asp-for="StudentID" class="form-label">Student</label>
+						<select asp-for="StudentID" class="form-select">
+							<option value="">-- Select Student --</option>
+							@foreach (var s in students)
+							{
+								<option value="@s.StudentID">@s.StudentCode - @s.User.FullName</option>
+							}
+						</select>
+						<span asp-validation-for="StudentID" class="text-danger"></span>
+					</div>
+				</div>
+				<div class="mt-3">
+					<button type="submit" class="btn btn-info">Enroll</button>
+					<a asp-action="Courses" class="btn btn-secondary">Back</a>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+@section Scripts { <partial name="_ValidationScriptsPartial" /> }
